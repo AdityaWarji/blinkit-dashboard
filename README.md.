@@ -1,0 +1,29 @@
+# Blinkit Sales Dashboard (Power BI)
+
+This repository contains an *interactive sales dashboard* built in Power BI using Blinkit sales data.  
+The dashboard provides clear insights into sales performance, helping identify trends, top categories, and customer behavior.  
+
+---
+
+## 📊 Dashboard Insights
+- Overall sales trends and revenue growth  
+- Top-selling product categories  
+- Customer purchase behavior analysis  
+- Regional sales distribution and performance  
+
+---
+
+## 📂 Files in this Repository
+- Blinkit_Dashboard.pbix → Power BI project file  
+- Blinkit_Dashboard.pdf → Exported dashboard report for quick view  
+- dashboard_screenshot.png → Preview of the dashboard  
+
+---
+
+## 🚀 How to Use
+1. Download the .pbix file and open it in *Power BI Desktop*.  
+2. Or view the PDF/screenshot for a quick look at the dashboard.  
+
+---
+
+👨‍💻 *Created by:* Aditya Warji
