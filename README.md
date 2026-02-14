@@ -23,6 +23,11 @@ This project demonstrates **data visualization, dashboard design, and business i
 
 ---
 
+### Dashboard
+![dashboard](dashboard.png)
+
+---
+
 ## Dashboard Features
 
 * Interactive filter panel
